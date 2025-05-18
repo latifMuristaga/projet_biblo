@@ -1,10 +1,11 @@
 [
     {
         "ID": 1,
-        "Titre": "1",
-        "Auteur": "1",
-        "Ann\u00e9e": "2",
+        "Titre": "\"Nations Nègres et Culture\"",
+        "Auteur": "cheikh anta diop",
+        "Année": 1954,
         "Lu": false,
-        "Note": null
+        "Note": null,
+        "Commentaire": ""
     }
 ]
